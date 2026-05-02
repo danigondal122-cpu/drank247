@@ -1,0 +1,4408 @@
+[
+{
+    "menu": "Example Menu",
+    "menuTranslations": {},
+    "menuId": "61bcc457657cc48c23eb6e9c",
+    "description": "This is a demo menu from Deliverect featuring various product structures",
+    "descriptionTranslations": {},
+    "menuImageURL": "https://resizer.staging.deliverect.com/xGIfcSJHrCTR4DnNoV8ING_PqyxZ7cw-tZRsc5qzXoA/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvcmVzdC0xNjEwMzYxNzAwODE1LmpwZWc=.jpg",
+    "menuType": 0,
+    "availabilities": [
+      {
+        "dayOfWeek": 1,
+        "startTime": "00:00",
+        "endTime": "23:59"
+      },
+      {
+        "dayOfWeek": 2,
+        "startTime": "00:00",
+        "endTime": "23:59"
+      },
+      {
+        "dayOfWeek": 3,
+        "startTime": "00:00",
+        "endTime": "23:59"
+      },
+      {
+        "dayOfWeek": 4,
+        "startTime": "00:00",
+        "endTime": "23:59"
+      },
+      {
+        "dayOfWeek": 5,
+        "startTime": "00:00",
+        "endTime": "23:59"
+      },
+      {
+        "dayOfWeek": 6,
+        "startTime": "00:00",
+        "endTime": "23:59"
+      },
+      {
+        "dayOfWeek": 7,
+        "startTime": "00:00",
+        "endTime": "23:59"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Combo Deals",
+        "description": "Traditional Indonesian Full Meals",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6ef3",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e69",
+          "61bcc457657cc48c23eb6e61",
+          "61bcc457657cc48c23eb6e95"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e69",
+          "61bcc457657cc48c23eb6e61",
+          "61bcc457657cc48c23eb6e95"
+        ],
+        "level": 1,
+        "availabilities": [
+          {
+            "dayOfWeek": 1,
+            "startTime": "15:15",
+            "endTime": "20:45"
+          },
+          {
+            "dayOfWeek": 2,
+            "startTime": "15:15",
+            "endTime": "20:45"
+          },
+          {
+            "dayOfWeek": 3,
+            "startTime": "15:15",
+            "endTime": "20:45"
+          },
+          {
+            "dayOfWeek": 4,
+            "startTime": "15:15",
+            "endTime": "20:45"
+          },
+          {
+            "dayOfWeek": 5,
+            "startTime": "15:15",
+            "endTime": "20:45"
+          },
+          {
+            "dayOfWeek": 6,
+            "startTime": "15:15",
+            "endTime": "20:45"
+          },
+          {
+            "dayOfWeek": 7,
+            "startTime": "15:15",
+            "endTime": "20:45"
+          }
+        ]
+      },
+      {
+        "name": "Sate",
+        "description": "Delicious Sate. add Rice or Noodles for a full meal!",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6ef4",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e8f",
+          "61bcc457657cc48c23eb6e93"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e8f",
+          "61bcc457657cc48c23eb6e93"
+        ],
+        "level": 1,
+        "availabilities": [
+          {
+            "dayOfWeek": 1,
+            "startTime": "12:00",
+            "endTime": "19:00"
+          },
+          {
+            "dayOfWeek": 2,
+            "startTime": "12:00",
+            "endTime": "19:00"
+          },
+          {
+            "dayOfWeek": 3,
+            "startTime": "12:00",
+            "endTime": "19:00"
+          },
+          {
+            "dayOfWeek": 4,
+            "startTime": "12:00",
+            "endTime": "19:00"
+          },
+          {
+            "dayOfWeek": 5,
+            "startTime": "12:00",
+            "endTime": "19:00"
+          },
+          {
+            "dayOfWeek": 6,
+            "startTime": "12:00",
+            "endTime": "19:00"
+          },
+          {
+            "dayOfWeek": 7,
+            "startTime": "12:00",
+            "endTime": "19:00"
+          }
+        ]
+      },
+      {
+        "name": "Meat Dishes",
+        "description": "Original Indonesian Recipe Meat Dishes",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6ef5",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e6d",
+          "61bcc457657cc48c23eb6e6b",
+          "61bcc457657cc48c23eb6e6c",
+          "61bcc457657cc48c23eb6e6f",
+          "61bcc457657cc48c23eb6e70",
+          "61bcc457657cc48c23eb6e6e",
+          "61bcc457657cc48c23eb6e72",
+          "61bcc457657cc48c23eb6e71",
+          "61bcc457657cc48c23eb6e73"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e6d",
+          "61bcc457657cc48c23eb6e6b",
+          "61bcc457657cc48c23eb6e6c",
+          "61bcc457657cc48c23eb6e6f",
+          "61bcc457657cc48c23eb6e70",
+          "61bcc457657cc48c23eb6e6e",
+          "61bcc457657cc48c23eb6e72",
+          "61bcc457657cc48c23eb6e71",
+          "61bcc457657cc48c23eb6e73"
+        ],
+        "level": 1,
+        "availabilities": []
+      },
+      {
+        "name": "Vegetarian Dishes",
+        "description": "Original Indonesian Vegetable based Recipes",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6ef6",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e67",
+          "61bcc457657cc48c23eb6e66",
+          "61bcc457657cc48c23eb6e65",
+          "61bcc457657cc48c23eb6e64",
+          "61bcc457657cc48c23eb6e63"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e67",
+          "61bcc457657cc48c23eb6e66",
+          "61bcc457657cc48c23eb6e65",
+          "61bcc457657cc48c23eb6e64",
+          "61bcc457657cc48c23eb6e63"
+        ],
+        "level": 1,
+        "availabilities": []
+      },
+      {
+        "name": "Fish Dishes",
+        "description": "Indonesian Mackerel Traditional Recipes",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6ef7",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e87",
+          "61bcc457657cc48c23eb6e88"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e87",
+          "61bcc457657cc48c23eb6e88"
+        ],
+        "level": 1,
+        "availabilities": []
+      },
+      {
+        "name": "Side Dishes",
+        "description": "Tasty Indonesian Sides",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6ef8",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e7c",
+          "61bcc457657cc48c23eb6e7d",
+          "61bcc457657cc48c23eb6e7e",
+          "61bcc457657cc48c23eb6e89",
+          "61bcc457657cc48c23eb6e7a"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e7c",
+          "61bcc457657cc48c23eb6e7d",
+          "61bcc457657cc48c23eb6e7e",
+          "61bcc457657cc48c23eb6e89",
+          "61bcc457657cc48c23eb6e7a"
+        ],
+        "level": 1,
+        "availabilities": []
+      },
+      {
+        "name": "Drinks",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6ef9",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e4e",
+          "61bcc457657cc48c23eb6e4f",
+          "61bcc457657cc48c23eb6e52",
+          "61bcc457657cc48c23eb6e50",
+          "61bcc457657cc48c23eb6e51"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e4e",
+          "61bcc457657cc48c23eb6e4f",
+          "61bcc457657cc48c23eb6e52",
+          "61bcc457657cc48c23eb6e50",
+          "61bcc457657cc48c23eb6e51"
+        ],
+        "level": 1,
+        "availabilities": []
+      },
+      {
+        "name": "Desserts",
+        "description": "Worldwide Famous Traditional Indonesian Desserts",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6efa",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e83",
+          "61bcc457657cc48c23eb6e85",
+          "61bcc457657cc48c23eb6e84",
+          "61bcc457657cc48c23eb6e86"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e83",
+          "61bcc457657cc48c23eb6e85",
+          "61bcc457657cc48c23eb6e84",
+          "61bcc457657cc48c23eb6e86"
+        ],
+        "level": 1,
+        "availabilities": []
+      },
+      {
+        "name": "Promo Deals",
+        "description": "Order More Pay Less",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6efb",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e94",
+          "61bcc457657cc48c23eb6e8c"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e94",
+          "61bcc457657cc48c23eb6e8c"
+        ],
+        "level": 1,
+        "availabilities": []
+      },
+      {
+        "name": "Buy 1 Get 1 Free",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6efc",
+        "account": "61bcc415657cc48c23eb6a11",
+        "posLocationId": "",
+        "posCategoryType": "",
+        "subCategories": [],
+        "posCategoryId": "",
+        "imageUrl": "",
+        "products": [
+          "61bcc457657cc48c23eb6e89",
+          "61bcc457657cc48c23eb6e82",
+          "61bcc457657cc48c23eb6e6e"
+        ],
+        "menu": "61bcc457657cc48c23eb6e9c",
+        "sortedChannelProductIds": [],
+        "subProductSortOrder": [],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e89",
+          "61bcc457657cc48c23eb6e82",
+          "61bcc457657cc48c23eb6e6e"
+        ],
+        "level": 1,
+        "availabilities": []
+      }
+    ],
+    "products": {
+      "61bcc457657cc48c23eb6e6b": {
+        "name": "Beef Rendang",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e6b",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "BEEF-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/sxWVWeX8tJJEHmbbqkRCX79FRW0NefE1CHo1O1YGn6M/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYmVlZi1yZW5kYW5nLWUxNDk2MDk2NjExOTg4LTE2MTAyNzgyMTYwMzguanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 850,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e6c": {
+        "name": "Beef Opor",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e6c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "BEEF-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/RB86u1EwWmvK5GUaIaPcX_I5kHGtvyqKVeMrH82FRtE/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZGFnaW5nJTIwb3Bvci0xNjEwMjc4MzIwMTc5LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 850,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e6d": {
+        "name": "Beef Bali",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e6d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "BEEF-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Nr7RDSTp6cC3yhvTchCdDQmdMjFbjh-AL_8rCDSdVj0/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYmFsaW5lc2UtYmVlZi1zdHJpcHMtMTYxMDI3ODI2NTE1Mi5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 850,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e6e": {
+        "name": "Chicken Roedjak",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e6e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CHIC-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/_S407JAxGmbV_SXkioDIr7FKxI7CgI9Em0FR94g5SSY/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvRnVsbFNpemVSZW5kZXItLTE2MTAyODU3MzIzMDguanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efc",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e6f": {
+        "name": "Chicken Paniki",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e6f",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CHIC-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/qrNZmzISTWqxZxKNlczbudrpasF6UvkGGHoBPDQe-98/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvcGFuaWtpJTIwa2lwLTE2MTAyNzg0MjA2MTEuanBlZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e70": {
+        "name": "Chicken Pedis",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e70",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CHIC-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Sx3MS4cjYzSxnFAnoCJBy5PQgW5kXSdPw6eJj5uK2io/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYXlhbSUyMHBlZGlzLTE2MTAyNzg4NzgwMjIuanBlZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e71": {
+        "name": "Pork Ketjap",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e71",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "POR-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/tkMj9iTmF6xBa64iNzk7d-XNEJIuf4b8kXTo7tCW4dc/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMva2V0amFwcG9yay0xNjEwMjg2MTI1NDAyLmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e72": {
+        "name": "Pork Panggang",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e72",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "POR-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/1u7gEai5TnMhxjH8zNqh5GhhwlMGmsQPBcsaHCJtMaE/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYmFiaS1wYW5nZ2FuZy1rYXJvLXRoZS1iYXRhay1kaXNoLXJvYXN0LXBvcmstaW4tdHJhZGl0aW9uYWwtc3BpY2VzLU0xUjUyTi0xNjEwMjg1OTkyMTY2LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e73": {
+        "name": "Pork Smoor",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e73",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PORK-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/IKsQhDl9Xo5fZt1cLQM3Z0XiGd73cuPBGLF8MFpmaww/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc2VtdXIlMjBwb3JrJTIwc3Blc2lhbC0xNjEwMjg2Mjg4Nzc0LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e63": {
+        "name": "Vegetables Sayur Lodeh",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e63",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/y9tPmrU2lG3AigaaKyFEe6GDxkzwHqWfN0HfWh8zBx0/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc2F5dXJsb2RlaF93cC0xNjEwMjg4OTU3NjgyLmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e64": {
+        "name": "Vegetables Mix Tumisan",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e64",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/n37Aa5JlUA_3pOQ0XD6qbpidhi8t7WihOV9zSTfanT8/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvbWl4dmVnZXRhYmxlcy0xNjEwMjg4ODE2Mzk1LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e65": {
+        "name": "Tofu Tahoe Taotjo",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e65",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/A54vwGNFJnIdiFH7O5ZceF3i4yq6jlcWPY5O7N9qyjs/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvdGFob2UlMjB0YW90am8tMTYxMDI4ODcxODExNC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e66": {
+        "name": "Sambal Goreng Buncis",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e66",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-04",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/vl9q1HGo0eYNjmzLgo_jx8yWmHFvWiY1WAOJuOdJ9H8/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc2FtYmFsX2Jvb250amVzLTE2MTAyODY2NTkxMzcuanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e4e": {
+        "name": "Coca Cola Original Taste",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e4e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/dHxYG5mbo-vtobFxXSx4KzDv3-bnd1UHRg03hWBduhg/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvY29jYS1jb2xhLW9yaWctMTYxMDI5MDIzOTk4NC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e4f": {
+        "name": "Coca Cola Zero Sugar",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e4f",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Bt_GuVqLVs47yR_xlJT9iJC0IxRoLC3765xHypTjj3Q/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvTlYtQ29jYV9Db2xhX1plcm9fQmxpa18wXzMzX2NsX2xvcy0xNjEwMjkwNDY2ODM0LnBuZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e50": {
+        "name": "Fanta",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e50",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/n3q8i0jieqWOXajq97Ni7zTYBwFLCkPYw9uLQznbV5w/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZmFudGEtMTYxMDI5MDU5Mzk0My5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e51": {
+        "name": "Ginger Beer",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e51",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-04",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/S1up9_Nwj9xRIFR9XLHAqzuKp2OzDKexYdrLKQD_LHc/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZ2luZ2VyYmVlci0xNjEwMjkwNzcxMDQ4LmpwZWc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 250,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e52": {
+        "name": "Sprite",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e52",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-05",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/-K-fkLOu9JnSO2wbVj1p9uC-zI0pKvzUMtEPp1TEk8I/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc3ByaXRlLTYwMHg0MDAtMTYxMDI5MDg2NDUwMy5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e69": {
+        "name": "Rames",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e69",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CMB-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-011",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e6a",
+          "61bcc457657cc48c23eb6e74",
+          "61bcc457657cc48c23eb6e68"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/skzoDVyOhUQX7ycy6fv-o2W9E3YC4q12Y9ybhn4LYW0/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvUmFtZXMtMTYxMDI3NzI2MDA3Ny5qcGc=.jpg",
+        "isCombo": true,
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 1800,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef3",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e67": {
+        "name": "Gado Gado",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e67",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-05",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/8Gl8oKd6CBtWYmk8Dm-8LEnqwlz05Ok1K5wbMp26JMM/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZ2Fkb2dhZG8tMTYxMDI4NjUxMzczMC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 650,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e61": {
+        "name": "Vegetarian Rames",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e61",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CMB-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-011",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e62",
+          "61bcc457657cc48c23eb6e68"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/TfdB2awRabVYKdb5O28vs0_mRnT8aPzvrNSCloidyRA/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvaGNtcDYxMjA1Xzg4OTcwMi0xNjEwMjc3NjExNTkwLmpwZWc=.jpg",
+        "isCombo": true,
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 1700,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef3",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e92": {
+        "name": "Sticky White Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e92",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "SRice-01",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6e91",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e90": {
+        "name": "Fried Yellow Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e90",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "SRice-02",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6e91",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e95": {
+        "name": "Vegetarian Combo Deal",
+        "description": "Rich Vegetables with Sides, Sauce and Drinks",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e95",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "MGAD1",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e74",
+          "61bcc457657cc48c23eb6e91",
+          "61bcc457657cc48c23eb6e68"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/n2fZUmMyd3jmCjCTi_AKkmTgVISQ_ZzDi4vaR_OCkk0/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvcmlzdGFmZmVsLTEtMTYxMDI3Nzc2ODI4My5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 1400,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6ef3",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7c": {
+        "name": "Nasi Goreng Fried Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Rice-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/qms0UwNZphc4ww9BN7dO9ENH7AgBKnK10bldFLIH0Sk/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvbmFzaWdvcmVuZy0xNjEwMjkwMDE3NTI5LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e7b",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7d": {
+        "name": "Nasi Kuning Yellow Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Rice-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/-ZIUxG-Slh7Uf4LspmTq5dKYOdBLJG2Gzw6ARk-9fcw/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvTmFzaS1rdW5pbmctMy0xNjEwMjg5NzI2OTQ2LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e7b",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7e": {
+        "name": "Lontong Sticky Diced Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Rice-04",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/yW8vZw9cLhSuGn_YWTqamgNHZ1mY7AFILIwiNwYYVpw/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvcmljZS1jb29rZXItbG9udG9uZy0xMC01MDB4NTAwLTE2MTAyODk2MzM0NzIuanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e7b",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e76": {
+        "name": "Bami Goreng Fried Noodles",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e76",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Nood-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e75",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7a": {
+        "name": "Mihoen Goreng Fried Noodles",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7a",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Nood-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/vUDaAQr-BS966Fa8l09tEDTmOwIbjkzCOaRDkoUB8bI/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvTWlob2VuLTItMS0xNjEwMjg5ODcwMTU3LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef8",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e8f": {
+        "name": "Chicken Sate Menu",
+        "description": "8 pieces of Chicken Sate accompanied by rice or noodles",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e8f",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "MSATE-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-0001",
+        "posProductCategoryId": [
+          "POS-CAT-0001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e7b",
+          "61bcc457657cc48c23eb6e75"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-0001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Zl30vNqDvuPsUVWL0OTlisOIaGNMkFb_V3LAa2wdTx0/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvR3JpbGxlZC1DaGlja2VuLVNhdGF5LUFsbW9uZC1CdXR0ZXItU2F1Y2UtUGhvdG8tMTYxMDI3NzkyOTczNi5qcGc=.jpg",
+        "isCombo": true,
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef4",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e93": {
+        "name": "Lamb Sate Menu",
+        "description": "8 pieces of Lamb Sate accompanied by rice or noodles",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e93",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "MSATE-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-0001",
+        "posProductCategoryId": [
+          "POS-CAT-0001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e7b",
+          "61bcc457657cc48c23eb6e75"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-0001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/x2sUoHb7Wkhk52ZX1cAi1OJtmP0zK8Ese4iABidMb7I/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvU2F0YXktQ2hpY2tlbi1Ob29kbGUtU2FsYWRfMS0xNjEwMjc4MDMzNjQ3LmpwZw==.jpg",
+        "isCombo": true,
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 750,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef4",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e87": {
+        "name": "Fish Bali",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e87",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "FISH-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e4d"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/pQWa-kAYuMOo3T0NqfWgUKvRwjLlymlyfgfif3t73qA/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvaWthbiUyMGJhbGktMTYxMDI4OTEyMjUxNS5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 950,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef7",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e88": {
+        "name": "Fish Pepesan",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e88",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "FISH-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e4d"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/-EmlPnJgdQ09VWTNC5r7uX95AzwzrB_EJeWKYriuF3s/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvUmVzZXAtUGVwZXMtSWthbi1NYXMtU3VuZGElMjAoMSktMTYxMDI4OTMyMzI2NS5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 950,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef7",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e89": {
+        "name": "White Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e89",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "RICE-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/OhzP8okUfb2JwrGjXHtiB7Qqv2RNF4yhkMkAj_7LrIw/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvbmFzaXB1dGktMTYxMDI5MDE0MDQ5NC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efc",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e83": {
+        "name": "Pisang Goreng",
+        "description": "Fried Banana",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e83",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DES-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/ZEmf9cn0b89Ef_e4zuqBFqT5XmMOyOx8h_q79tPMUVY/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZnJpZWQlMjBiYW5hbmEtMTYxMDI5MTA2OTAyMi5qcGVn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 650,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efa",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e85": {
+        "name": "Kue Lapis",
+        "description": "Rice Cake with Cocos",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e85",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DES-04",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/RqGMSEMZFtlBqWUKaz-QsR1gZLHVFCSJyFXgaWI72DY/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMva3VlbGFwaXMtMTYxMDI5MTI1Nzc1Mi5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efa",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e84": {
+        "name": "Dadar Gulung",
+        "description": "Coco Pancake",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e84",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DES-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/a-rkBCQSFlH81x3OeUT0f3ibZUoAR097tP9V4yuqh_E/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZGFkYXIlMjBnb2Vsb2VuJTJDZ29lbG9lbmclMkNpbmRpc2NoZSUyMGdyb2VuZSUyMHBhbm5lbmtvZWtlbiUyQ2dldnVsZGUlMjBwYW5kYW5mbGVuc2plcyUyMG1ldCUyMGtva29zJTJDaW5kb25lc2lzY2hlJTIwZmxlbnNqZXMlMjBnZXZ1bGQlMjBtZXQlMjBrb2tvcyUyQ3BhbmRhbnBhbm5lbmtvZWtlbiUyQ2luZGlzY2hlJTIwcmVjZXB0ZW4tMTYxMDI5MTEzNTU4OS5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 650,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efa",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e86": {
+        "name": "Klepon",
+        "description": "Coco Rice Balls",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e86",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DES-05",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/zSVBk3Bx8tkuiux_8z-vBggv5U9d0IjS7MXzeIv_8rk/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMva2xlcG9uLTE2MTAyOTEzMDU4MTAuanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efa",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e5c": {
+        "name": "Vegetables Sayur Lodeh",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Groenten Sayur Lodeh"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e5c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e5d": {
+        "name": "Vegetables Mix Tumisan",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Groenten Mix Tumisan"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e5d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e5e": {
+        "name": "Tofu Tahoe Taotjo",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Tofu Tahoe Taotjo"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e5e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e5f": {
+        "name": "Sambal Goreng Buncis",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e5f",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-04",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e60": {
+        "name": "Gado Gado",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e60",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-05",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e94": {
+        "name": "Vegetables Promo Deal",
+        "description": "Choose 4 Veggie Dishes and Get 15% Discount",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e94",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PROMO2",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e8e",
+          "61bcc457657cc48c23eb6e7b"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/OSoX8GS8LNKGStprU_k7DDib3ExCpKuhjn8MTObtSSY/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvdmVnZ2llJTIwcmljZSUyMHRhYmxlLTE2MTA0NDAwMjEyOTkuanBn.jpg",
+        "isCombo": true,
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 1600,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6efb",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e53": {
+        "name": "Beef Bali",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Rundvlees Bali"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e53",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PBEEF-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e54": {
+        "name": "Beef Opor",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Rundvlees Opor"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e54",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PBEEF-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e55": {
+        "name": "Beef Rendang",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Rundvlees Rendang"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e55",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PBEEF-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e56": {
+        "name": "Chicken Paniki",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Kip Paniki"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e56",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PCHIC-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e57": {
+        "name": "Chicken Pedis",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Kip Pedis"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e57",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PCHIC-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e58": {
+        "name": "Chicken Roedjak",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Kip Roedjak"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e58",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PCHIC-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e59": {
+        "name": "Pork Ketjap",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Varkenvlees Ketjap"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e59",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PPOR-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e5a": {
+        "name": "Pork Panggang",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Geroosterd Varken"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e5a",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PPOR-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e5b": {
+        "name": "Pork Smoor",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Varkenvlees Smoor"
+        },
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e5b",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PPORK-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e8c": {
+        "name": "Meats Promo Deal",
+        "description": "Choose 5 Meat Dishes and Get 15% Discount",
+        "nameTranslations": {
+          "nl": "Vlees Promo Deal"
+        },
+        "descriptionTranslations": {
+          "nl": "Kies 5 Vleesgerechten en ontvang 15% korting"
+        },
+        "_id": "61bcc457657cc48c23eb6e8c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PROMO1",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e8d",
+          "61bcc457657cc48c23eb6e7b"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/UvkIFjZz326Mqcedxq66lGgUjQ7pV-0L98i0BtTEFmA/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvbWVhdCByaWNlIHRhYmxlLTE2MTA0NDAwMzU2NjQuanBn.jpg",
+        "isCombo": true,
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 2700,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6efb",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e82": {
+        "name": "Spekkoek",
+        "description": "Sweet Cake",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e82",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DES-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/RqGMSEMZFtlBqWUKaz-QsR1gZLHVFCSJyFXgaWI72DY/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMva3VlbGFwaXMtMTYxMDI5MTI1Nzc1Mi5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 650,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efc",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc1b": {
+        "name": "Beef Rendang",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc1b",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "BEEF-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/sxWVWeX8tJJEHmbbqkRCX79FRW0NefE1CHo1O1YGn6M/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYmVlZi1yZW5kYW5nLWUxNDk2MDk2NjExOTg4LTE2MTAyNzgyMTYwMzguanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc1c": {
+        "name": "Beef Opor",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc1c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "BEEF-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/RB86u1EwWmvK5GUaIaPcX_I5kHGtvyqKVeMrH82FRtE/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZGFnaW5nJTIwb3Bvci0xNjEwMjc4MzIwMTc5LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc1d": {
+        "name": "Beef Bali",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc1d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "BEEF-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Nr7RDSTp6cC3yhvTchCdDQmdMjFbjh-AL_8rCDSdVj0/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYmFsaW5lc2UtYmVlZi1zdHJpcHMtMTYxMDI3ODI2NTE1Mi5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc1e": {
+        "name": "Chicken Roedjak",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc1e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CHIC-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/_S407JAxGmbV_SXkioDIr7FKxI7CgI9Em0FR94g5SSY/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvRnVsbFNpemVSZW5kZXItLTE2MTAyODU3MzIzMDguanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6efc",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc1f": {
+        "name": "Chicken Paniki",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc1f",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CHIC-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/qrNZmzISTWqxZxKNlczbudrpasF6UvkGGHoBPDQe-98/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvcGFuaWtpJTIwa2lwLTE2MTAyNzg0MjA2MTEuanBlZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc20": {
+        "name": "Chicken Pedis",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc20",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "CHIC-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Sx3MS4cjYzSxnFAnoCJBy5PQgW5kXSdPw6eJj5uK2io/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYXlhbSUyMHBlZGlzLTE2MTAyNzg4NzgwMjIuanBlZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc21": {
+        "name": "Pork Ketjap",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc21",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "POR-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/tkMj9iTmF6xBa64iNzk7d-XNEJIuf4b8kXTo7tCW4dc/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMva2V0amFwcG9yay0xNjEwMjg2MTI1NDAyLmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc22": {
+        "name": "Pork Panggang",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc22",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "POR-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/1u7gEai5TnMhxjH8zNqh5GhhwlMGmsQPBcsaHCJtMaE/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvYmFiaS1wYW5nZ2FuZy1rYXJvLXRoZS1iYXRhay1kaXNoLXJvYXN0LXBvcmstaW4tdHJhZGl0aW9uYWwtc3BpY2VzLU0xUjUyTi0xNjEwMjg1OTkyMTY2LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc23": {
+        "name": "Pork Smoor",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc23",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PORK-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/IKsQhDl9Xo5fZt1cLQM3Z0XiGd73cuPBGLF8MFpmaww/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc2VtdXIlMjBwb3JrJTIwc3Blc2lhbC0xNjEwMjg2Mjg4Nzc0LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef5",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc24": {
+        "name": "Vegetables Sayur Lodeh",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc24",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/y9tPmrU2lG3AigaaKyFEe6GDxkzwHqWfN0HfWh8zBx0/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc2F5dXJsb2RlaF93cC0xNjEwMjg4OTU3NjgyLmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc25": {
+        "name": "Vegetables Mix Tumisan",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc25",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/n37Aa5JlUA_3pOQ0XD6qbpidhi8t7WihOV9zSTfanT8/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvbWl4dmVnZXRhYmxlcy0xNjEwMjg4ODE2Mzk1LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc26": {
+        "name": "Tofu Tahoe Taotjo",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc26",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/A54vwGNFJnIdiFH7O5ZceF3i4yq6jlcWPY5O7N9qyjs/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvdGFob2UlMjB0YW90am8tMTYxMDI4ODcxODExNC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc27": {
+        "name": "Sambal Goreng Buncis",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc27",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-04###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/vl9q1HGo0eYNjmzLgo_jx8yWmHFvWiY1WAOJuOdJ9H8/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc2FtYmFsX2Jvb250amVzLTE2MTAyODY2NTkxMzcuanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc28": {
+        "name": "Coca Cola Original Taste",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc28",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/dHxYG5mbo-vtobFxXSx4KzDv3-bnd1UHRg03hWBduhg/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvY29jYS1jb2xhLW9yaWctMTYxMDI5MDIzOTk4NC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc29": {
+        "name": "Coca Cola Zero Sugar",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc29",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Bt_GuVqLVs47yR_xlJT9iJC0IxRoLC3765xHypTjj3Q/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvTlYtQ29jYV9Db2xhX1plcm9fQmxpa18wXzMzX2NsX2xvcy0xNjEwMjkwNDY2ODM0LnBuZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc2a": {
+        "name": "Fanta",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc2a",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/n3q8i0jieqWOXajq97Ni7zTYBwFLCkPYw9uLQznbV5w/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZmFudGEtMTYxMDI5MDU5Mzk0My5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc2b": {
+        "name": "Ginger Beer",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc2b",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-04###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/S1up9_Nwj9xRIFR9XLHAqzuKp2OzDKexYdrLKQD_LHc/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZ2luZ2VyYmVlci0xNjEwMjkwNzcxMDQ4LmpwZWc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc2c": {
+        "name": "Sprite",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc2c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-05###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/-K-fkLOu9JnSO2wbVj1p9uC-zI0pKvzUMtEPp1TEk8I/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc3ByaXRlLTYwMHg0MDAtMTYxMDI5MDg2NDUwMy5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc2d": {
+        "name": "Gado Gado",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc2d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "VEG-05###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/8Gl8oKd6CBtWYmk8Dm-8LEnqwlz05Ok1K5wbMp26JMM/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZ2Fkb2dhZG8tMTYxMDI4NjUxMzczMC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef6",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc2e": {
+        "name": "Sticky White Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc2e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "SRice-01###",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6e91",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc2f": {
+        "name": "Fried Yellow Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc2f",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "SRice-02###",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6e91",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc30": {
+        "name": "Vegetables Sayur Lodeh",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Groenten Sayur Lodeh"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc30",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc31": {
+        "name": "Vegetables Mix Tumisan",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Groenten Mix Tumisan"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc31",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc32": {
+        "name": "Tofu Tahoe Taotjo",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Tofu Tahoe Taotjo"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc32",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc33": {
+        "name": "Sambal Goreng Buncis",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc33",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-04###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc34": {
+        "name": "Gado Gado",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc34",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PVEG-05###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8e",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc35": {
+        "name": "Beef Bali",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Rundvlees Bali"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc35",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PBEEF-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc36": {
+        "name": "Beef Opor",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Rundvlees Opor"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc36",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PBEEF-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc37": {
+        "name": "Beef Rendang",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Rundvlees Rendang"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc37",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PBEEF-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc38": {
+        "name": "Chicken Paniki",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Kip Paniki"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc38",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PCHIC-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc39": {
+        "name": "Chicken Pedis",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Kip Pedis"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc39",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PCHIC-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc3a": {
+        "name": "Chicken Roedjak",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Kip Roedjak"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc3a",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PCHIC-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc3b": {
+        "name": "Pork Ketjap",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Varkenvlees Ketjap"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc3b",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PPOR-01###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc3c": {
+        "name": "Pork Panggang",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Geroosterd Varken"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc3c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PPOR-02###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61c1a4711af949ce79e0dc3d": {
+        "name": "Pork Smoor",
+        "description": "",
+        "nameTranslations": {
+          "nl": "Varkenvlees Smoor"
+        },
+        "descriptionTranslations": {},
+        "_id": "61c1a4711af949ce79e0dc3d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "PPORK-03###",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8d",
+        "snoozed": false,
+        "subProductSortOrder": []
+      }
+    },
+    "modifierGroups": {
+      "61bcc457657cc48c23eb6e77": {
+        "name": "Sauces",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e77",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 3,
+        "plu": "SAUC-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e78",
+          "61bcc457657cc48c23eb6e79"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "multiMax": 4,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e89",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7b": {
+        "name": "Rice Selection",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7b",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 3,
+        "plu": "MGRICE-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e7c",
+          "61bcc457657cc48c23eb6e7d",
+          "61bcc457657cc48c23eb6e7e"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "multiMax": 4,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e8c",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e75": {
+        "name": "Noodles Selection",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e75",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 3,
+        "plu": "MGNOOD-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e76",
+          "61bcc457657cc48c23eb6e7a"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e93",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e4d": {
+        "name": "Add a Drink? (not included)",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e4d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 3,
+        "plu": "UPSLL-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-010",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e4e",
+          "61bcc457657cc48c23eb6e4f",
+          "61bcc457657cc48c23eb6e50",
+          "61bcc457657cc48c23eb6e51",
+          "61bcc457657cc48c23eb6e52"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 5,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e88",
+        "snoozed": false,
+        "subProductSortOrder": []
+      }
+    },
+    "modifiers": {
+      "61bcc457657cc48c23eb6e78": {
+        "name": "Sate Sauce",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e78",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 2,
+        "plu": "SC-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "multiMax": 2,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e77",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e79": {
+        "name": "Sambal Hot Sauce",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e79",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 2,
+        "plu": "SC-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "multiMax": 2,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e77",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7c": {
+        "name": "Nasi Goreng Fried Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7c",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Rice-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/qms0UwNZphc4ww9BN7dO9ENH7AgBKnK10bldFLIH0Sk/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvbmFzaWdvcmVuZy0xNjEwMjkwMDE3NTI5LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e7b",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7d": {
+        "name": "Nasi Kuning Yellow Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Rice-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/-ZIUxG-Slh7Uf4LspmTq5dKYOdBLJG2Gzw6ARk-9fcw/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvTmFzaS1rdW5pbmctMy0xNjEwMjg5NzI2OTQ2LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e7b",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7e": {
+        "name": "Lontong Sticky Diced Rice",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Rice-04",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/yW8vZw9cLhSuGn_YWTqamgNHZ1mY7AFILIwiNwYYVpw/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvcmljZS1jb29rZXItbG9udG9uZy0xMC01MDB4NTAwLTE2MTAyODk2MzM0NzIuanBn.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e7b",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e76": {
+        "name": "Bami Goreng Fried Noodles",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e76",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Nood-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e75",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e7a": {
+        "name": "Mihoen Goreng Fried Noodles",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e7a",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "Nood-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61bcc457657cc48c23eb6e77"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/vUDaAQr-BS966Fa8l09tEDTmOwIbjkzCOaRDkoUB8bI/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvTWlob2VuLTItMS0xNjEwMjg5ODcwMTU3LmpwZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 450,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef8",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e4e": {
+        "name": "Coca Cola Original Taste",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e4e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/dHxYG5mbo-vtobFxXSx4KzDv3-bnd1UHRg03hWBduhg/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvY29jYS1jb2xhLW9yaWctMTYxMDI5MDIzOTk4NC5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e4f": {
+        "name": "Coca Cola Zero Sugar",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e4f",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/Bt_GuVqLVs47yR_xlJT9iJC0IxRoLC3765xHypTjj3Q/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvTlYtQ29jYV9Db2xhX1plcm9fQmxpa18wXzMzX2NsX2xvcy0xNjEwMjkwNDY2ODM0LnBuZw==.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e50": {
+        "name": "Fanta",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e50",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-003",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/n3q8i0jieqWOXajq97Ni7zTYBwFLCkPYw9uLQznbV5w/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZmFudGEtMTYxMDI5MDU5Mzk0My5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e51": {
+        "name": "Ginger Beer",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e51",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-04",
+        "multiply": 1,
+        "posProductId": "POS-ID-001",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/S1up9_Nwj9xRIFR9XLHAqzuKp2OzDKexYdrLKQD_LHc/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvZ2luZ2VyYmVlci0xNjEwMjkwNzcxMDQ4LmpwZWc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 250,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e52": {
+        "name": "Sprite",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e52",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 1,
+        "plu": "DRN-05",
+        "multiply": 1,
+        "posProductId": "POS-ID-002",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "https://resizer.staging.deliverect.com/-K-fkLOu9JnSO2wbVj1p9uC-zI0pKvzUMtEPp1TEk8I/rt:fill/g:ce/el:0/cb:5e997ba748134b35bcf870230c9b68b0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvc3ByaXRlLTYwMHg0MDAtMTYxMDI5MDg2NDUwMy5qcGc=.jpg",
+        "visible": true,
+        "max": 0,
+        "min": 0,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 150,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6ef9",
+        "snoozed": false,
+        "subProductSortOrder": []
+      }
+    },
+    "bundles": {
+      "61bcc457657cc48c23eb6e6a": {
+        "name": "Choose Your Meats",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e6a",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 4,
+        "plu": "BNDL-01",
+        "multiply": 1,
+        "posProductId": "POS-ID-008",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61c1a4711af949ce79e0dc1b",
+          "61c1a4711af949ce79e0dc1c",
+          "61c1a4711af949ce79e0dc1d",
+          "61c1a4711af949ce79e0dc1e",
+          "61c1a4711af949ce79e0dc1f",
+          "61c1a4711af949ce79e0dc20",
+          "61c1a4711af949ce79e0dc21",
+          "61c1a4711af949ce79e0dc22",
+          "61c1a4711af949ce79e0dc23"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 2,
+        "min": 2,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e69",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e74": {
+        "name": "Choose Your Vegetables",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e74",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 4,
+        "plu": "BNDL-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-009",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61c1a4711af949ce79e0dc24",
+          "61c1a4711af949ce79e0dc25",
+          "61c1a4711af949ce79e0dc26",
+          "61c1a4711af949ce79e0dc27"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 2,
+        "min": 2,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e95",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e68": {
+        "name": "Choose Your Drink",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e68",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 4,
+        "plu": "BNDL-03",
+        "multiply": 1,
+        "posProductId": "POS-ID-010",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61c1a4711af949ce79e0dc28",
+          "61c1a4711af949ce79e0dc29",
+          "61c1a4711af949ce79e0dc2a",
+          "61c1a4711af949ce79e0dc2b",
+          "61c1a4711af949ce79e0dc2c"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 1,
+        "min": 1,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e95",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e62": {
+        "name": "Choose Your Vegetables",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e62",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 4,
+        "plu": "VBNDL-02",
+        "multiply": 1,
+        "posProductId": "POS-ID-008",
+        "posProductCategoryId": [
+          "POS-CAT-001"
+        ],
+        "subProducts": [
+          "61c1a4711af949ce79e0dc24",
+          "61c1a4711af949ce79e0dc25",
+          "61c1a4711af949ce79e0dc26",
+          "61c1a4711af949ce79e0dc27",
+          "61c1a4711af949ce79e0dc2d"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "POS-CAT-001"
+        ],
+        "imageUrl": "",
+        "max": 4,
+        "min": 4,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 6000,
+        "takeawayTax": 6000,
+        "parentId": "61bcc457657cc48c23eb6e61",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e91": {
+        "name": "Select your Side Dish",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e91",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 4,
+        "plu": "BNDL-04",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61c1a4711af949ce79e0dc2e",
+          "61c1a4711af949ce79e0dc2f"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "",
+        "max": 1,
+        "min": 1,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6e95",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e8e": {
+        "name": "Select Your Veggies",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e8e",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 4,
+        "plu": "BUNDL-06",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61c1a4711af949ce79e0dc30",
+          "61c1a4711af949ce79e0dc31",
+          "61c1a4711af949ce79e0dc32",
+          "61c1a4711af949ce79e0dc33",
+          "61c1a4711af949ce79e0dc34"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "",
+        "max": 4,
+        "min": 4,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6e94",
+        "snoozed": false,
+        "subProductSortOrder": []
+      },
+      "61bcc457657cc48c23eb6e8d": {
+        "name": "Select Your Meats",
+        "description": "",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "_id": "61bcc457657cc48c23eb6e8d",
+        "account": "61bcc415657cc48c23eb6a11",
+        "location": "61bcc427657cc48c23eb6cff",
+        "productType": 4,
+        "plu": "BUNDL-07",
+        "multiply": 1,
+        "posProductId": "DV-POS-3",
+        "posProductCategoryId": [
+          "DV-CAT-2"
+        ],
+        "subProducts": [
+          "61c1a4711af949ce79e0dc35",
+          "61c1a4711af949ce79e0dc36",
+          "61c1a4711af949ce79e0dc37",
+          "61c1a4711af949ce79e0dc38",
+          "61c1a4711af949ce79e0dc39",
+          "61c1a4711af949ce79e0dc3a",
+          "61c1a4711af949ce79e0dc3b",
+          "61c1a4711af949ce79e0dc3c",
+          "61c1a4711af949ce79e0dc3d"
+        ],
+        "productTags": [],
+        "posCategoryIds": [
+          "DV-CAT-2"
+        ],
+        "imageUrl": "",
+        "max": 5,
+        "min": 5,
+        "sortOrder": 0,
+        "capacityUsages": [],
+        "price": 0,
+        "priceLevels": {},
+        "deliveryTax": 9000,
+        "takeawayTax": 9000,
+        "parentId": "61bcc457657cc48c23eb6e8c",
+        "snoozed": false,
+        "subProductSortOrder": []
+      }
+    },
+    "snoozedProducts": {},
+    "productTags": [],
+    "currency": 1,
+    "validations": [],
+    "nestedModifiers": true,
+    "channelLinkId": "61bcc434657cc48c23eb6d63"
+  }
+]

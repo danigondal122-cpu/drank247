@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\SoftDeletes;
+
+class CustomerServiceHour extends Model
+{
+    use SoftDeletes;
+
+    protected $table = 'customer_service_hours';
+}

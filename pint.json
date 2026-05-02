@@ -1,0 +1,11 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "binary_operator_spaces": {
+            "operators": {
+                "=>": "align"
+            }
+        },
+        "no_unreachable_default_argument_value": false
+    }
+}
