@@ -39,8 +39,3 @@ Ensure you have PHP version 8.3 or higher installed.
     ```bash
     Laravel development server started: http://localhost:8000
     ```
-
-Fitur-fitur yang tidak berfungsi:
-- tombol Get Product From Stock Api di dashboard admin, halaman Product Management
-- tombol Sync Product to Deliverect di dashboard admin, halaman Product Management
-- halaman Delivery Person (CRUD), halaman map
